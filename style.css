@@ -198,3 +198,13 @@ ul {
 .cta-subtext {
     font-size: 18px;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    margin-top: auto;
+    padding: 30px 16px;
+    background-color: #1F2937;
+    color:#e5e5e5;
+    font-size: 18px;
+}
